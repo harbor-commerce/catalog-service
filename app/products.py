@@ -1,6 +1,6 @@
 PRODUCTS = [
-    {"id": 1, "name": "Mug", "price": 1990},
-    {"id": 2, "name": "Notebook", "price": 2490},
+    {"id": 1, "name": "Mug", "price": 1990, "category": "kitchen"},
+    {"id": 2, "name": "Notebook", "price": 2490, "category": "office"},
 ]
 
 
